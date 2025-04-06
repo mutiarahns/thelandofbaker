@@ -8,7 +8,7 @@
 
 ## Links
 
-- Website/Frontend: <https://thelandofbaker.mutiarahns.com/>
+- Website/Frontend: <https://thelandofbaker-web.mutiarahns.com>
 - Backend: <https://thelandofbaker-api.mutiarahns.com/>
 - Repositories:
   - General: <https://github.com/mutiarahns/thelandofbaker>
